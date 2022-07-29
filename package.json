@@ -1,0 +1,14 @@
+{
+  "name": "unocss-issue-server-only",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^3.0.1",
+    "unocss": "^0.45.1",
+    "vite": "^3.0.2",
+    "vite-plugin-ssr": "^0.4.10",
+    "vue": "^3.2.37"
+  }
+}
